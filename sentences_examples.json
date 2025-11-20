@@ -1,0 +1,14 @@
+{
+"sentences_examples": [
+	{
+		"id" : "81f7f601-102a-4008-ac4b-439ebdefa739",
+		"sentence_zh" : "我每天早上七点起床。",
+		"sentence_pinyin" : "wǒ měitiān zǎoshang qī diǎn qǐchuáng.",
+		"sentence_fr" : "Je me lève tous les matins à sept heures.",
+		"sentence_en" : "I get up at seven o'clock every morning.",
+		"audio_url_male" : null,
+		"min_hsk_level" : 2,
+		"min_new_hsk_level" : 1,
+		"created_at" : "2025-11-18T22:45:51.990Z",
+		"updated_at" : "2025-11-18T22:45:51.990Z"
+	},
