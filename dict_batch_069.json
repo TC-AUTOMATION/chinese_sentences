@@ -1,0 +1,56 @@
+{
+  "sentences_examples": [
+    {
+      "id": "",
+      "word_zh": "作文",
+      "sentence_zh": "老师让我们写一篇作文。",
+      "sentence_pinyin": "Lǎoshī ràng wǒmen xiě yī piān zuòwén.",
+      "sentence_fr": "Le professeur nous a demandé d'écrire une rédaction.",
+      "sentence_en": "The teacher asked us to write a composition.",
+      "audio_url_male": null,
+      "difficulty": "elementary",
+      "category": "school",
+      "created_at": "2025-11-21T10:00:00.000Z",
+      "updated_at": "2025-11-21T10:00:00.000Z"
+    },
+    {
+      "id": "",
+      "word_zh": "全",
+      "sentence_zh": "全班同学都来了。",
+      "sentence_pinyin": "Quán bān tóngxué dōu lái le.",
+      "sentence_fr": "Tous les camarades de classe sont venus.",
+      "sentence_en": "All the classmates have come.",
+      "audio_url_male": null,
+      "difficulty": "elementary",
+      "category": "grammar",
+      "created_at": "2025-11-21T10:00:00.000Z",
+      "updated_at": "2025-11-21T10:00:00.000Z"
+    },
+    {
+      "id": "",
+      "word_zh": "遍",
+      "sentence_zh": "请再说一遍。",
+      "sentence_pinyin": "Qǐng zài shuō yī biàn.",
+      "sentence_fr": "Veuillez le répéter.",
+      "sentence_en": "Please say it again.",
+      "audio_url_male": null,
+      "difficulty": "elementary",
+      "category": "requests",
+      "created_at": "2025-11-21T10:00:00.000Z",
+      "updated_at": "2025-11-21T10:00:00.000Z"
+    },
+    {
+      "id": "",
+      "word_zh": "米",
+      "sentence_zh": "这条河有一百米宽。",
+      "sentence_pinyin": "Zhè tiáo hé yǒu yībǎi mǐ kuān.",
+      "sentence_fr": "Cette rivière fait cent mètres de large.",
+      "sentence_en": "This river is one hundred meters wide.",
+      "audio_url_male": null,
+      "difficulty": "elementary",
+      "category": "numbers",
+      "created_at": "2025-11-21T10:00:00.000Z",
+      "updated_at": "2025-11-21T10:00:00.000Z"
+    }
+  ]
+}
